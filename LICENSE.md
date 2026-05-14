@@ -1,4 +1,4 @@
-# 
+# momentum trading bot new Strategy | breakout-detection & candlestick-patterns is the best momentum trading bot, featuring breakout-detection and candlestick-patterns. Smart, fast,
 
 
 
